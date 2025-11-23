@@ -1,0 +1,5 @@
+{
+  "name": "Chat Log Verbatim Extractor",
+  "description": "A web application to upload a JSON chat log file and extract only the user and chatbot messages, displaying them verbatim in a clean, formatted view.",
+  "requestFramePermissions": []
+}
